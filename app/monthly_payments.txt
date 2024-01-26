@@ -1,0 +1,4 @@
+MonthlyPaymentDTO [companyName=NeverLand, employeeName=Georgi Kanchev, buildingId=1, apartmentNumber=1, paymentMonth=2023-11-15, amount=0.00]
+MonthlyPaymentDTO [companyName=NeverLand, employeeName=Georgi Kanchev, buildingId=1, apartmentNumber=1, paymentMonth=2023-12-20, amount=7.00]
+MonthlyPaymentDTO [companyName=NeverLand, employeeName=Georgi Kanchev, buildingId=1, apartmentNumber=1, paymentMonth=2024-01-20, amount=6.00]
+MonthlyPaymentDTO [companyName=NeverLand, employeeName=Georgi Kanchev, buildingId=1, apartmentNumber=2, paymentMonth=2024-01-25, amount=8.00]
